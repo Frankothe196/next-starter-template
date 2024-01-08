@@ -2,6 +2,7 @@
 
 ## Folder Structure
 
+```bash
 ├── /src          # Source files
 │   ├── /components      # React components
 │   ├── /pages           # Next.js pages
@@ -9,7 +10,7 @@
 │   └── ...              # Other source files
 ├── /public       # Static assets
 └── ...           # Other project-specific directories/files
-
+```
 ## Installation
 
 ```bash
